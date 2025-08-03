@@ -1,4 +1,4 @@
-<h1 align="center">📱 Project Title (e.g., LoginApi)</h1>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5410ea44-4b90-4a58-b48a-bb58af6cc71d" /><h1 align="center">📱 Project Title (e.g., LoginApi)</h1>
 <p align="center">🔒 Simple Login/Logout API with SQLite & .NET MAUI Hybrid</p>
 
 <p align="center">
@@ -25,7 +25,7 @@ A .NET MAUI Hybrid application that implements a simple login/logout system usin
 ## 📸 Screenshots
 | Login Screen | Dashboard Screen |
 |--------------|-----------------|
-| *(Add Image)* | *(Add Image)*   |
+| <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f8e55df-5afa-4197-8197-e0ba3a3adbd8" />| *(Add Image)*   |
 
 ---
 
